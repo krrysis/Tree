@@ -1,0 +1,33 @@
+run:
+Information of the Tree is:
+
+Tree Code is: 10
+Tree height is: 130 feet.
+Tree base is: 150 cm wide.
+amount of time spent so far on the tree is: 20 hours
+
+Information of the Mango Tree is:
+
+Mango Tree Code is: 15
+Mango Tree height is: 150 feet.
+Mango Tree base is: 170 cm wide.
+amount of time spent so far on the mango tree is: 20 hours
+Yeild of the Mango Tree is: 200 fruits.
+press y to update and print the updated tree information
+y
+Enter updated Tree Code
+10
+Enter updated Tree Height
+20
+Enter updated Tree base
+30
+Enter updated time spent on a tree
+40
+
+updated tree information is: 
+
+Tree Code is: 10
+Tree height is: 20 feet.
+Tree base is: 30 cm wide.
+amount of time spent so far on the tree is: 40 hours
+BUILD SUCCESSFUL (total time: 11 seconds)
